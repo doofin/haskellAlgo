@@ -1,6 +1,7 @@
 # haskellAlgo
+my repo for some algorithm implementations ,written while in college(2014) so that it might be outdated and it is for reference only.
 
-# numericalMethods.hs
+# Numerical methods (numericalMethods.hs)
 numerical Methods for function integration,solving linear equations,interpolation(approximate a function from its data)
 
 simpson method for numerical integration
@@ -15,10 +16,9 @@ Jacobi method : an iterative algorithm,for solving a linear system of equations,
 
 The method of successive over-relaxation (SOR),for solving a linear system of equations,like Ax=b 
 
-# algo.hs
-some solution for haskell-99 problems(https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
-
-##lists:
+# some solution for haskell-99 problems(algo.hs)
+(https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
+## lists:
 
 Problem 20 (*) Remove the K'th element from a list.     
 
@@ -34,7 +34,7 @@ Problem 39 (*) A list of prime numbers. Given a range of integers by its lower a
 Problem 40 (**) Goldbach's conjecture.  
 
 
-##trees
+## trees
 Problem 56 (**) Symmetric binary trees 
 
 Problem 55 (**) Construct completely balanced binary trees 
